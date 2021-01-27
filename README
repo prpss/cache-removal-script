@@ -1,0 +1,4 @@
+chmod +x cacheremoval.sh
+source ./cacheremoval.sh
+
+2 basic steps and good to go
